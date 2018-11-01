@@ -1,0 +1,10 @@
+To find springCloudServicesClientLibrariesVersion
+
+https://docs.pivotal.io/spring-cloud-services/1-5/common/client-dependencies.html
+http://projects.spring.io/spring-cloud/
+https://courses.education.pivotal.io/c/349802701/course-instructions/spring-cloud-dependency-versioning/index.html
+
+
+
+dependencies graph:
+gradle dependencies --configuration compile
